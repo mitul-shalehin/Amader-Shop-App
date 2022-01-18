@@ -1,6 +1,6 @@
 # amadershop
 
-cse299 project 
+Junior Design Project 
 
 ## Getting Started
 
