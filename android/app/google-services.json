@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979949335916",
+    "project_id": "amader-shop-7beda",
+    "storage_bucket": "amader-shop-7beda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979949335916:android:a02353bd9cde00e82a6f49",
+        "android_client_info": {
+          "package_name": "com.example.amadershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979949335916-1bgj1bd0b6mhou6lg46l6vq3nk0ebnff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnFCGYHgEX-tD4ylcIFKNWntZipeMD1Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979949335916-1bgj1bd0b6mhou6lg46l6vq3nk0ebnff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
