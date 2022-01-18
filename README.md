@@ -1,4 +1,4 @@
-# amadershop
+# Amader Shop Android Application
 
 Junior Design Project 
 
